@@ -56,3 +56,6 @@ If you use our dataset, model, or code, please cite:
 ## License
 
 Please refer to the licenses and terms of the released Hugging Face dataset, the LoRA adapter, the DeepSeek-Math-7B-Base model, Isabelle/HOL, and AFP. Generated proofs should always be independently checked by Isabelle before use.
+
+For questions about the model, dataset, or paper, please contact me. 
+email:22521298@zju.edu.cn
