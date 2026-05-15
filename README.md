@@ -1,4 +1,3 @@
-# psr-dataset
 # Enhancing Neural Theorem Proving via High-Quality Data Selection and Verifier Feedback
 
 This repository accompanies our work on data-centric neural theorem proving for Isabelle/HOL. We study how to improve proof generation by selecting higher-quality formal proof data and by using Isabelle verifier feedback during inference.
